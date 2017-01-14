@@ -124,18 +124,18 @@ if(ponrank == 0){
         hspeed -= maxp/(distance_to_object(obPone0)+5)
     }
 }
-if(ponrank == 0){
-    if(x &gt; obPone0.x){
-        hspeed += maxp/(distance_to_object(obPone0)+5)   
+if(ponrank == 1){
+    if(x &gt; obPone2.x){
+        hspeed += maxp/(distance_to_object(obPone2)+5)   
     }else{
-        hspeed -= maxp/(distance_to_object(obPone0)+5)
+        hspeed -= maxp/(distance_to_object(obPone2)+5)
     }
 }
-if(ponrank == 0){
-    if(x &gt; obPone0.x){
-        hspeed += maxp/(distance_to_object(obPone0)+5)   
+if(ponrank == 2){
+    if(x &gt; obPone1.x){
+        hspeed += maxp/(distance_to_object(obPone1)+5)   
     }else{
-        hspeed -= maxp/(distance_to_object(obPone0)+5)
+        hspeed -= maxp/(distance_to_object(obPone1)+5)
     }
 }
 </string>
