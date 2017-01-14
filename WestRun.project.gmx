@@ -9,6 +9,7 @@
     <sprite>sprites\sprPoneRun</sprite>
     <sprite>sprites\sprPoneHit</sprite>
     <sprite>sprites\sprPoneStand</sprite>
+    <sprite>sprites\sprEnStand</sprite>
     <sprite>sprites\sprPoneFall</sprite>
     <sprite>sprites\sprite4</sprite>
     <sprite>sprites\sprCollision</sprite>
